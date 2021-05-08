@@ -1,1 +1,1 @@
-# The-Estonia-Disaster-Passenger
+The approach is centred on Python for executing algorithms- KNN, Decision Tree, and Random Forest. The prime objective of the research is to analyze Estonia disaster to determine a correlation between the survival of passengers and characteristics of the passengers using various machine learning algorithms. In particular, we will compare the algorithms on the basis of the percentage of accuracy on a test dataset.
